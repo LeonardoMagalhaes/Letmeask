@@ -11,7 +11,6 @@
    * [Descrição do Projecto](#descrição-do-projecto)
    * [Features](#-features)
    * [Tecnologias usadas](#-tecnologias-usadas)
-   * [Desafios do Projecto](#-desafios-do-projecto)
    * [Pré-requisitos](#-pré-requisitos)
    * [Rodando o projecto na sua maquina](#-rodando-o-projecto-na-sua-maquina-iniciando-o-servidor)
    * [Licença](#-licença)
