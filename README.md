@@ -2,9 +2,6 @@
 <p align="center">
     <img src ="./src/assets/images/logo.svg" width="400" > 
 </p>
-<p align="center">
-    <img src ="./.github/assets/print.jpg" > 
-</p>
 <h2 align="center"> 
 <img src="https://img.shields.io/badge/Status-Termidado-green">
 </h2>
